@@ -1,5 +1,6 @@
-# first-repositary
 My first repo
-going to rock init
-in my beginning stage
-i will work hard for my better future
+
+Going to rock init!
+
+In my beginning stage,
+I will work hard for my better future.
